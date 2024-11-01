@@ -9,6 +9,10 @@
 This project consists of three parts, each focusing on different aspects of 3D graphics and animation. The details for each part are as follows:
 Part 1: Blender Object Rendering 🎨
 Render images of at least three objects sharing the same theme using Blender.
+
+### Blender Project Files:
+(https://heriotwatt-my.sharepoint.com/:u:/g/personal/mm2027_hw_ac_uk/EUq-onCESSpIiJHvBY5diDYBop9FmCET9PybxHBwvn1xrw?e=DANqx8)
+
 ### Blender Group Video Explanation: A detailed presentation explaining this part.
 
 (https://heriotwatt-my.sharepoint.com/:v:/g/personal/mm2027_hw_ac_uk/EY6kz_X1HyRAmsAsVqIdh6kB1137RCYjnNvNS6D5LHGjAQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=pFPOaY)
