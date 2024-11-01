@@ -45,3 +45,13 @@ CAMERA SETTINGS:
 RENDER SETTINGS:
 ![RENDER](https://github.com/user-attachments/assets/2ccb6557-e0db-4612-b0a8-3c4a2b97b8ff)
 
+2. Hammer (Saad Rakhangi):
+  
+To make the hammer I started off using a cube and applying sub-division modifiers to it. Then used beveling to give it a more of a hammer shape. Later I used multiple other objects to give more detailing on the hammer block.
+
+I then discovered the use of the boolean modifier which could put engravings on the model. I used the text tool to add text written in norse which I could then convert to a mesh and then use boolean modifier to engrave them on to the hammer. 
+
+I then made a handle and a metal cup below the hammer by using a cylinder and the extrude and scaling tools to give them shape. 
+
+Looked at youtube videos to learn how to make textures on objects. Added Scratchy texture look to the hammer using voronai textures and bump nodes to it.
+
