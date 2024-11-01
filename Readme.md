@@ -5,14 +5,26 @@
 ### Muhammad Imaad (H00362645)
 ### Saad Rakhangi (H00356081) 
 
-# This coursework consists of 3 parts. 
-> First part is to render images of atleast 3 objects sharing the same theme using Blender. 🎨
-Video explanation of this part here: 
-https://heriotwatt-my.sharepoint.com/:v:/r/personal/mm2027_hw_ac_uk/Documents/BLENDER%20FINAL%20PRESENTATION%20FILE.mp4?csf=1&web=1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=mgQKne
 
-> Second part is to animate a video of the scene and the objects using Unreal Engine.👾
-This is the onedrive link where you may access our file as it is too big to upload to github: 
-https://heriotwatt-my.sharepoint.com/:f:/r/personal/aa2149_hw_ac_uk/Documents/CourseworkFinal?csf=1&web=1&e=Y384H2
+This project consists of three parts, each focusing on different aspects of 3D graphics and animation. The details for each part are as follows:
+Part 1: Blender Object Rendering 🎨
+Render images of at least three objects sharing the same theme using Blender.
+### Blender Group Video Explanation: A detailed presentation explaining this part.
+
+(https://heriotwatt-my.sharepoint.com/:v:/r/personal/mm2027_hw_ac_uk/Documents/BLENDER%20FINAL%20PRESENTATION%20FILE.mp4?csf=1&web=1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=mgQKne)
+
+Part 2: Unreal Engine Scene Animation 👾
+Animate a video of the scene and the objects created in Blender using Unreal Engine.
+Due to the file size, the project is hosted on OneDrive:
+
+### Unreal Engine Project Files: 
+(https://heriotwatt-my.sharepoint.com/:f:/r/personal/aa2149_hw_ac_uk/Documents/CourseworkFinal?csf=1&web=1&e=Y384H2)
+
+### Unreal Engine Project Render :
+(https://heriotwatt-my.sharepoint.com/:v:/g/personal/aa2149_hw_ac_uk/EQAeFbi1DFVEtVlCLEQbLhEB1MsnXKAv2O8Ma8ZrAHs6gA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=CnRI8R)
+
+### Group Video Explanation:
+()
 
 > Third and final part is to create an Interactive 3D Model experience online for our scene and objects.👩🏻‍💻🧑🏻‍💻
 
