@@ -2,10 +2,10 @@ This file consists of our high-quality offline rendering of objects.
 
 You may look at a video explanation of our file at this link: 
 
-https://heriotwatt-my.sharepoint.com/:v:/r/personal/mm2027_hw_ac_uk/Documents/BLENDER%20FINAL%20PRESENTATION%20FILE.mp4?csf=1&web=1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=mgQKne
+https://heriotwatt-my.sharepoint.com/:v:/g/personal/mm2027_hw_ac_uk/EY6kz_X1HyRAmsAsVqIdh6kB1137RCYjnNvNS6D5LHGjAQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=pFPOaY
 
 The Blender file is 81MB and it's not possible to upload on Github. You may access the blender file at this link. :
-https://heriotwatt-my.sharepoint.com/:u:/r/personal/mm2027_hw_ac_uk/Documents/Wooden%20shed%20final%20done%207.blend?csf=1&web=1&e=lJg9SO
+https://heriotwatt-my.sharepoint.com/:u:/g/personal/mm2027_hw_ac_uk/EUq-onCESSpIiJHvBY5diDYBop9FmCET9PybxHBwvn1xrw?e=DANqx8
 
 We have made 12 objects for this deliverable. Four of them are our main 
 objects, with the other 8 being side objects. Here is how we modeled our main objects, set up the scene and set up the render.
