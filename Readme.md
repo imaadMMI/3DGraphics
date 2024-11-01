@@ -11,7 +11,7 @@ Part 1: Blender Object Rendering 🎨
 Render images of at least three objects sharing the same theme using Blender.
 ### Blender Group Video Explanation: A detailed presentation explaining this part.
 
-(https://heriotwatt-my.sharepoint.com/:v:/r/personal/mm2027_hw_ac_uk/Documents/BLENDER%20FINAL%20PRESENTATION%20FILE.mp4?csf=1&web=1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=mgQKne)
+(https://heriotwatt-my.sharepoint.com/:v:/g/personal/mm2027_hw_ac_uk/EY6kz_X1HyRAmsAsVqIdh6kB1137RCYjnNvNS6D5LHGjAQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=pFPOaY)
 
 Part 2: Unreal Engine Scene Animation 👾
 Animate a video of the scene and the objects created in Blender using Unreal Engine.
