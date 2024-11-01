@@ -24,7 +24,7 @@ Due to the file size, the project is hosted on OneDrive:
 (https://heriotwatt-my.sharepoint.com/:v:/g/personal/aa2149_hw_ac_uk/EQAeFbi1DFVEtVlCLEQbLhEB1MsnXKAv2O8Ma8ZrAHs6gA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=CnRI8R)
 
 ### Group Video Explanation:
-()
+(https://heriotwatt-my.sharepoint.com/:v:/g/personal/mm2027_hw_ac_uk/EZN7C32cshNIqYy_3faq2KwBghwNO3xR3AL05y0jCiuKcw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=xssLbW)
 
 > Third and final part is to create an Interactive 3D Model experience online for our scene and objects.👩🏻‍💻🧑🏻‍💻
 
