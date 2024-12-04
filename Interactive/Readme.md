@@ -26,6 +26,26 @@ Lighting was another critical component of the project, as it significantly impa
 
 As a result, alternative lighting strategies, including directional and ambient lighting, were explored to maintain realism. While the custom candlelight renderer didn’t achieve the desired effect, it offered valuable insights into the complexities of light simulation and shader-based rendering. Advanced lighting techniques, such as physically-based rendering, were also utilized to create realistic lighting effects. Properties like metallic and roughness were used to control reflectivity and surface detail, while Fresnel-Schlick approximations and GGX normal distribution added depth and accuracy to the highlights and reflections. These combined techniques resulted in dynamic and lifelike lighting effects, further enhancing the overall realism of the rendered scenes.
 
+Skybox, interactive and post process volumes:
+
+The loadCubeMap function loads six images to create a cube texture, handling image fetching, processing, and GPU integration. These textures represent the six faces of the skybox, ensuring realistic environmental reflections.
+
+The createSkyboxPipeline function sets up the rendering pipeline. The vertex shader positions the cube’s vertices, while the fragment shader samples the cube map textures based on direction vectors, creating an immersive 3D environment.
+
+The Sky function ties merges together. It initializes the pipeline, loads the cube map, and sets up a sampler for smooth transitions. A bind group links the textures and sampler to the pipeline for efficient rendering. The renderSkyboxFrame function completes the process by drawing the six faces of the cube in one call.
+
+
+In our project, we wanted to create a dynamic and interactive experience by allowing users to load different 3D models into the scene using keyboard inputs. To achieve this, we set up a mapping between specific keys and model file paths. This mapping is stored in a JavaScript object called Model, where each key corresponds to a unique model. For example, pressing ‘1’ loads a barrel model, ‘2’ loads a hammer, and so on. We even included a fully assembled shed model, which can be loaded by pressing the ‘H’ key.
+
+To handle the interaction, we added a keydown event listener to the document. This listener detects when a key is pressed and checks if it matches one of the keys defined in the Model object. If a match is found, the corresponding model is loaded into the scene.
+
+Here’s how it works behind the scenes: when a valid key is pressed, the program retrieves the file path of the associated model and calls a function to load it into the scene. To ensure the process runs smoothly, we used asynchronous loading to handle large models efficiently.
+
+We also included logging to provide feedback. If a model loads successfully, a message is displayed in the console, confirming the keypress and model load. If there’s an error, it logs the issue, which helps us debug and improve the user experience.
+
+
+
+
 
 
 
