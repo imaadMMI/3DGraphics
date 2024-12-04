@@ -14,6 +14,18 @@ Finally, the models are rendered by drawing the vertex and index buffers using W
 
 Shaders and materials:
 
+The process of handling textures in WebGPU involves a series of structured steps to ensure efficient rendering and high-quality visuals. Initially, resolving texture URIs is crucial, as textures can either be embedded within the file or stored externally. To handle this, logic was implemented to resolve these URIs correctly, particularly for external files where relative paths must be handled. This ensures that the correct texture files are fetched, setting the stage for further processing.
+
+Once the URIs are resolved, the next step is to load the texture data. Using the fetch API, the texture files are loaded into memory and converted into ImageBitmap objects, which are compatible with WebGPU. This conversion is a critical step, as raw data must be prepared in a format suitable for GPU usage. After loading, the texture data is prepared for rendering by creating GPU-compatible textures using WebGPU APIs. These textures are configured with properties like size, format, and usage to optimize them for rendering and are uploaded to the GPU for efficient processing.
+
+For further optimization, mipmaps can be generated. Mipmaps are precomputed textures that improve quality at varying levels of detail, particularly for objects viewed from different distances. This step enhances rendering performance while reducing visual artifacts like aliasing. Once the textures are optimized, they are attached to their respective materials. This involves associating textures, such as base color or normal maps, with shaders through BindGroups. These bindings ensure that the shaders can access the textures during rendering.
+
+The final step in the workflow is utilizing textures in the shaders. In the fragment shader, textures are sampled and applied to the model surfaces. This process brings the textures to life by mapping them onto the 3D models, creating detailed and realistic visuals. Each step, from parsing GLTF texture references to applying them in shaders, contributes to a structured approach that enhances the rendering pipeline and ensures visual fidelity.
+
+Lighting was another critical component of the project, as it significantly impacts the realism of the scene. An initial attempt to simulate candlelight using a custom CandleRenderer class involved creating dynamic point lights that mimicked the flicker and glow of real flames. However, the implementation faced challenges, such as balancing light attenuation, dynamic flicker behavior, and integration with the broader lighting setup. The fragment shader logic also struggled with achieving consistency in ambient lighting, leading to unsatisfactory results.
+
+As a result, alternative lighting strategies, including directional and ambient lighting, were explored to maintain realism. While the custom candlelight renderer didn’t achieve the desired effect, it offered valuable insights into the complexities of light simulation and shader-based rendering. Advanced lighting techniques, such as physically-based rendering, were also utilized to create realistic lighting effects. Properties like metallic and roughness were used to control reflectivity and surface detail, while Fresnel-Schlick approximations and GGX normal distribution added depth and accuracy to the highlights and reflections. These combined techniques resulted in dynamic and lifelike lighting effects, further enhancing the overall realism of the rendered scenes.
+
 
 
 
