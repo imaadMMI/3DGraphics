@@ -94,6 +94,25 @@ Lighting is pivotal for realism.
 3. **Post-Processing**:
    - Uses shaders to apply effects like tone mapping for enhanced visual quality.
 
+---
+## **Hosting **
+
+### **Firebase**
+- Firebase hosting offers a generous free limit of 5GB.
+- Initial attempts to use Firebase failed due to persistent build issues during deployment.
+- While powerful, it required additional setup beyond the scope of our project timeline.
+
+### **Vercel**
+- We configured a Vercel x GitHub workflow for seamless deployment.
+- However, Vercel imposes a file size limit of 100MB, which made it unsuitable for hosting our larger models and assets.
+
+### **Netlify**
+- Finally, we opted for **Netlify**, which successfully hosted our application.
+- Deployment was simple, with a drag-and-drop feature or direct GitHub integration.
+- Our project is live and accessible at:
+  **[https://roaring-sprinkles-66487c.netlify.app/](https://roaring-sprinkles-66487c.netlify.app/)**
+
+Each of these platforms has unique strengths, but Netlify's flexibility and ease of use made it the ideal choice for this project.
 
 
 
