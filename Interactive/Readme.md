@@ -95,7 +95,7 @@ Lighting is pivotal for realism.
    - Uses shaders to apply effects like tone mapping for enhanced visual quality.
 
 ---
-## **Hosting **
+## Hosting 
 
 ### **Firebase**
 - Firebase hosting offers a generous free limit of 5GB.
